@@ -62,3 +62,6 @@ def deuxTuplesOuExclusif(tuple1, tuple2):
 
     solution = tuple(solution)
     return solution
+
+
+#var = solutionFinale
